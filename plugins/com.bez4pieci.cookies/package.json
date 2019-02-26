@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git",
+  "_id": "cordova-remove-cookies@0.0.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-remove-cookies",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git",
+    "rawSpec": "https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git",
+    "saveSpec": "git+https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git",
+    "fetchSpec": "https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git#b175345c076989c669be3ef76316fa658872ae13",
+  "_spec": "https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git",
+  "_where": "/home/hosein/Projects/mobile/ziarati-older-v",
+  "author": {
+    "name": "Ernests Karlsons"
+  },
+  "bugs": {
+    "url": "https://github.com/bez4pieci/Phonegap-Cookies-Plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.bez4pieci.cookies",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "cordova_name": "Cookies",
+  "deprecated": false,
+  "description": "Cordova Cookies Plugin",
+  "engines": [],
+  "homepage": "https://github.com/bez4pieci/Phonegap-Cookies-Plugin#readme",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "cookies"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-remove-cookies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bez4pieci/Phonegap-Cookies-Plugin.git"
+  },
+  "version": "0.0.2"
+}

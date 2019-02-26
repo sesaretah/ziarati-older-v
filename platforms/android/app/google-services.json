@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "446153148000",
+    "firebase_url": "https://ziarati-4207a.firebaseio.com",
+    "project_id": "ziarati-4207a",
+    "storage_bucket": "ziarati-4207a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446153148000:android:1d6a13e4b4882467",
+        "android_client_info": {
+          "package_name": "ir.bitgarden.ziratik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446153148000-4pb8gul6ldvdeo33caicrdvfqum31f3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtB9Z45nCSyAKJa6EFGsvGeEKFamAcbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
